@@ -1,0 +1,6 @@
+{
+  "name": "TED Clips AI Studio",
+  "description": "A modern web application for automatically and manually cutting long videos into short clips using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
